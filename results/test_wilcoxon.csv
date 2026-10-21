@@ -1,0 +1,4 @@
+"dimension","n_pares","p_valor","p_ajustado_bonferroni"
+"ausencia_alucinacion",100,0.0259343416967216,0.0778030250901649
+"precision_clinica",100,0.00801056043386314,0.0240316813015894
+"seguridad",100,0.124225113483318,0.372675340449953

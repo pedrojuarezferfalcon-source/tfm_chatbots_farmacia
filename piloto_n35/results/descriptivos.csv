@@ -1,0 +1,9 @@
+"modelo","dimension","media","sd","mediana","IQR","n"
+"gemini-3.1-pro-preview","ausencia_alucinacion",4.25714285714286,1.19663393446335,5,1,35
+"gemini-3.1-pro-preview","precision_clinica",4.6,0.811679449913428,5,0.5,35
+"gemini-3.1-pro-preview","puntuacion_total",13.3428571428571,2.88956395186761,15,2,35
+"gemini-3.1-pro-preview","seguridad",4.48571428571429,1.03955387975206,5,0.5,35
+"gpt-5.6-sol","ausencia_alucinacion",4.08571428571429,1.46270154109419,5,1,35
+"gpt-5.6-sol","precision_clinica",4.54285714285714,0.885931120110267,5,0.5,35
+"gpt-5.6-sol","puntuacion_total",13.0571428571429,3.34262011656986,15,2,35
+"gpt-5.6-sol","seguridad",4.42857142857143,1.1449560558152,5,0.5,35

@@ -1,0 +1,26 @@
+
+precision_clinica (gpt-5.6-sol): n=10
+  Kappa ponderado = 0.000 (p=NaN)
+
+precision_clinica (gemini-3.1-pro-preview): n=10
+  Kappa ponderado = 0.000 (p=NaN)
+
+seguridad (gpt-5.6-sol): n=10
+  Kappa ponderado = NA (p=NA)
+
+seguridad (gemini-3.1-pro-preview): n=10
+  Kappa ponderado = 0.000 (p=NaN)
+
+alucinacion (gpt-5.6-sol): n=10
+  Kappa ponderado = NA (p=NA)
+
+alucinacion (gemini-3.1-pro-preview): n=10
+  Kappa ponderado = NA (p=NA)
+
+=== CONCORDANCIA GLOBAL (60 pares árbitro-humano) ===
+  Acuerdo exacto: 86.7%
+  Acuerdo +/-1 punto: 100.0%
+  AC2 de Gwet (pesos lineales): 0.963
+  Kappa ponderado global: -0.030 (no interpretable por la paradoja de la prevalencia)
+  Distribución humano:   0 0 0 7 53 (1..5)
+  Distribución árbitro:  0 0 0 1 59 (1..5)
